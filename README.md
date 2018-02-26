@@ -5,7 +5,7 @@ This repo has detailed explanation of linear regression over sample data with on
 Covers
 
 - Visualization of data using seaborn
-- Simple linear regression implementaion using normal equations (using Numpy)
+- Simple linear regression implementation using normal equations (using Numpy)
 - Gradient descent optimization (using numpy)
 - R-squared implementation using numpy
 - Residual plot analysis
