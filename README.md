@@ -10,3 +10,6 @@ Covers
 - R-squared implementation using numpy
 - Residual plot analysis
 - Comparison of model using normal equation with scikit implementation
+
+
+Concepts are inspired from Prof. Andrew Ng's machine learning course and Siraj Raval's Videos.
