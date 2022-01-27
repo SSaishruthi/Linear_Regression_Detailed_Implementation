@@ -12,4 +12,4 @@ Covers
 - Comparison of model using normal equation with scikit implementation
 
 
-Concepts are inspired from Prof. Andrew Ng's machine learning course.
+Concepts are inspired from Prof. Andrew Ng's machine learning course and online learning through videos.
